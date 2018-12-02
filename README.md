@@ -1,1 +1,1 @@
-# candy-bot
+# candy-god
