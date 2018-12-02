@@ -3,7 +3,7 @@ const PREFIX = "-"
 
 var bot = new Discord.Client();
 
-bot.on("ready", function() {
+bot.on("ready", async () => {
     console.log("Ready");
 });
 
